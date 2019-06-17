@@ -96,6 +96,11 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="lblAviso" destination="5EZ-JS-ADM" id="JgE-WY-Jfb"/>
+                        <outlet property="lblDistancia" destination="l4w-yn-b04" id="k6N-WM-HR6"/>
+                        <outlet property="lblPassos" destination="0D1-8e-FJz" id="ltq-K1-klv"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
